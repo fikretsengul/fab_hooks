@@ -1,0 +1,12 @@
+name: fab_hooks
+description: Shared logic for fab_app bricks.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  clock: ^1.1.2
+  equatable: ^2.0.7
+  mason: ^0.1.0
